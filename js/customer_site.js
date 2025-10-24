@@ -184,7 +184,7 @@ const CUSTOMER_SITES = {
 
     name: '量子资源站'
 
-  },
+  }
 };
 
 // 调用全局方法合并
